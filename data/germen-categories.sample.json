@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Harinas y granos",
+    "slug": "harinas-y-granos",
+    "description": "Harinas, granos y básicos para preparar recetas latinas.",
+    "isActive": true
+  },
+  {
+    "name": "Salsas y condimentos",
+    "slug": "salsas-y-condimentos",
+    "description": "Salsas, ajíes, condimentos y sabores tradicionales.",
+    "isActive": true
+  },
+  {
+    "name": "Dulces y snacks",
+    "slug": "dulces-y-snacks",
+    "description": "Dulces, galletas, bocadillos y meriendas latinas.",
+    "isActive": true
+  },
+  {
+    "name": "Bebidas latinas",
+    "slug": "bebidas-latinas",
+    "description": "Bebidas típicas y refrescos populares latinoamericanos.",
+    "isActive": true
+  },
+  {
+    "name": "Café y cacao",
+    "slug": "cafe-y-cacao",
+    "description": "Café, cacao y productos aromáticos de origen latino.",
+    "isActive": true
+  },
+  {
+    "name": "Congelados",
+    "slug": "congelados",
+    "description": "Productos congelados listos para preparar en casa.",
+    "isActive": true
+  }
+]
