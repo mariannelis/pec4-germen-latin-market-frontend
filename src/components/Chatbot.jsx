@@ -90,7 +90,7 @@ function Chatbot({ open = false, onOpenChange }) {
                 className="mt-1 h-10 w-10 rounded-full border border-[#ead5db] object-cover"
               />
               <div className="rounded-3xl rounded-tl-md bg-white p-4 text-sm leading-6 text-[#5f454b] shadow-sm">
-                ¡Hola! ¿Te ayudo a encontrar productos, revisar tu carrito o tramitar tu pedido?
+                ¡Hola! soy Fonso, tu asistente virtual. ¿Te ayudo a encontrar productos, revisar tu carrito o tramitar tu pedido?
               </div>
             </div>
 
