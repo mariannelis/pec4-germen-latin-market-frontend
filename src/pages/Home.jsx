@@ -26,7 +26,7 @@ const preferredCategories = [
   "Embutidos",
   "Cocina",
   "Salsas y condimentos",
-  "Café y cacao",
+  "Café",
   "Congelados",
 ];
 
