@@ -1,38 +1,11 @@
 [
-  {
-    "name": "Harinas y granos",
-    "slug": "harinas-y-granos",
-    "description": "Harinas, granos y básicos para preparar recetas latinas.",
-    "isActive": true
-  },
-  {
-    "name": "Salsas y condimentos",
-    "slug": "salsas-y-condimentos",
-    "description": "Salsas, ajíes, condimentos y sabores tradicionales.",
-    "isActive": true
-  },
-  {
-    "name": "Dulces y snacks",
-    "slug": "dulces-y-snacks",
-    "description": "Dulces, galletas, bocadillos y meriendas latinas.",
-    "isActive": true
-  },
-  {
-    "name": "Bebidas latinas",
-    "slug": "bebidas-latinas",
-    "description": "Bebidas típicas y refrescos populares latinoamericanos.",
-    "isActive": true
-  },
-  {
-    "name": "Café y cacao",
-    "slug": "cafe-y-cacao",
-    "description": "Café, cacao y productos aromáticos de origen latino.",
-    "isActive": true
-  },
-  {
-    "name": "Congelados",
-    "slug": "congelados",
-    "description": "Productos congelados listos para preparar en casa.",
-    "isActive": true
-  }
+  { "name": "Chucherías", "slug": "chucherias", "description": "Dulces, chocolates, galletas y snacks latinos.", "isActive": true },
+  { "name": "Despensa", "slug": "despensa", "description": "Productos básicos para preparar comidas tradicionales.", "isActive": true },
+  { "name": "Bebidas", "slug": "bebidas", "description": "Refrescos, maltas, jugos y bebidas populares.", "isActive": true },
+  { "name": "Carnes", "slug": "carnes", "description": "Cortes de carne por encargo y disponibilidad.", "isActive": true },
+  { "name": "Embutidos", "slug": "embutidos", "description": "Chorizos, bacon, mortadela y productos refrigerados.", "isActive": true },
+  { "name": "Cocina", "slug": "cocina", "description": "Productos y utensilios para preparar recetas latinas.", "isActive": true },
+  { "name": "Salsas y condimentos", "slug": "salsas-y-condimentos", "description": "Salsas, adobos y condimentos para dar sabor casero.", "isActive": true },
+  { "name": "Café y cacao", "slug": "cafe-y-cacao", "description": "Café, cacao y bebidas calientes de tradición latina.", "isActive": true },
+  { "name": "Congelados", "slug": "congelados", "description": "Productos congelados y refrigerados para conservar mejor.", "isActive": true }
 ]

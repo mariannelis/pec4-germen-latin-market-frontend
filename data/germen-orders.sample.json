@@ -1,0 +1,23 @@
+[
+  {
+    "customerName": "Cliente Demo",
+    "customerEmail": "cliente@germenmarket.com",
+    "items": [
+      { "productName": "Harina P.A.N. Blanca", "quantity": 2, "price": 3.5 },
+      { "productName": "Frescolita", "quantity": 2, "price": 2.5 }
+    ],
+    "total": 12,
+    "status": "pending",
+    "isPaid": false
+  },
+  {
+    "customerName": "Cliente Demo",
+    "customerEmail": "cliente@germenmarket.com",
+    "items": [
+      { "productName": "Pirulín", "quantity": 3, "price": 2.2 }
+    ],
+    "total": 6.6,
+    "status": "completed",
+    "isPaid": true
+  }
+]

@@ -2,7 +2,7 @@
   "name": "pec4-germen-latin-market-frontend",
   "version": "1.0.0",
   "private": true,
-  "description": "Frontend React para Germen Latin Market conectado a la API REST de la PEC 3.",
+  "description": "Frontend React con Tailwind CSS para Germen Latin Market, tienda online con catálogo dinámico y carrito de compra conectado a API REST.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,10 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
     "@vitejs/plugin-react": "^4.3.1",
     "vite": "^5.4.2",
+    "tailwindcss": "^4.1.13",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  },
-  "devDependencies": {}
+  }
 }
