@@ -17,6 +17,10 @@ function Chatbot({ open = false, onOpenChange }) {
   const isOpen = open || internalOpen;
 
   const topics = {
+    "hola soy fonso tu asistente virtual": {
+      label: "Hola soy Fonso tu asistente virtual", 
+      answer: "¡Hola! Soy Fonso, tu asistente virtual. ¿En qué puedo ayudarte?"
+    },
     pedido: {
       label: "Pedido",
       answer:
