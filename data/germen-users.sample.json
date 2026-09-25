@@ -1,5 +1,0 @@
-[
-  { "name": "Marianne Lucena", "email": "admin@germenmarket.com", "password": "hashed_password_demo", "role": "admin", "isActive": true },
-  { "name": "Gestor Catálogo", "email": "catalogo@germenmarket.com", "password": "hashed_password_demo", "role": "editor", "isActive": true },
-  { "name": "Cliente Demo", "email": "cliente@germenmarket.com", "password": "hashed_password_demo", "role": "customer", "isActive": true }
-]
